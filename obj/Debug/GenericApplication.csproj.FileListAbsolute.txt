@@ -1,0 +1,8 @@
+C:\Users\Shiva027\Desktop\BridgeLabsRemapProgram\GenericApplication\GenericApplication\bin\Debug\GenericApplication.exe.config
+C:\Users\Shiva027\Desktop\BridgeLabsRemapProgram\GenericApplication\GenericApplication\bin\Debug\GenericApplication.exe
+C:\Users\Shiva027\Desktop\BridgeLabsRemapProgram\GenericApplication\GenericApplication\bin\Debug\GenericApplication.pdb
+C:\Users\Shiva027\Desktop\BridgeLabsRemapProgram\GenericApplication\GenericApplication\obj\Debug\GenericApplication.csproj.AssemblyReference.cache
+C:\Users\Shiva027\Desktop\BridgeLabsRemapProgram\GenericApplication\GenericApplication\obj\Debug\GenericApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiva027\Desktop\BridgeLabsRemapProgram\GenericApplication\GenericApplication\obj\Debug\GenericApplication.csproj.CoreCompileInputs.cache
+C:\Users\Shiva027\Desktop\BridgeLabsRemapProgram\GenericApplication\GenericApplication\obj\Debug\GenericApplication.exe
+C:\Users\Shiva027\Desktop\BridgeLabsRemapProgram\GenericApplication\GenericApplication\obj\Debug\GenericApplication.pdb
